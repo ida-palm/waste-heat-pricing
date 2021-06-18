@@ -1,0 +1,4752 @@
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "915b3293-5536-546b-1e41-9b1c828b6af7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:12.273009Z",
+                "observed": "2019-03-08T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b4aaad02-8337-7fd5-c7ea-9a43eb3a5314",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:12.402658Z",
+                "observed": "2019-03-08T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c118a0af-6676-0b1c-94c2-6fc5dbca644f",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:12.543999Z",
+                "observed": "2019-03-08T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "dddea27f-ce12-cee1-6a96-a9376e98937b",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:12.651242Z",
+                "observed": "2019-03-08T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c7e6c97c-289b-1039-2117-4af4bcaa0c01",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:12.785976Z",
+                "observed": "2019-03-08T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "46342021-90b0-4b8f-a204-9bd522934f61",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:12.939349Z",
+                "observed": "2019-03-08T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a0691556-f34f-f6d3-6abc-a14e25eb4d3e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:13.080406Z",
+                "observed": "2019-03-08T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "4ea64e40-d4ea-986f-ee19-ffc5ce676bdd",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:13.118212Z",
+                "observed": "2019-03-08T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5f7739e3-9e61-5848-8edc-c441f53e3c8f",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:13.322828Z",
+                "observed": "2019-03-08T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "232b2e0e-ffbe-08d5-1a4d-3b71a1f1d87a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:13.559446Z",
+                "observed": "2019-03-08T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "3c8d1fe0-dd6d-517c-a639-c6332f43ed69",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:13.617636Z",
+                "observed": "2019-03-08T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8d2b3690-88be-4a5c-cd48-55540127ad04",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:13.755995Z",
+                "observed": "2019-03-08T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "28e39a4a-1f8a-4f91-6291-df5b126749e7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:13.892395Z",
+                "observed": "2019-03-08T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "801cdc05-5125-340b-92cc-d625214522da",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:14.004873Z",
+                "observed": "2019-03-08T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b3874794-2648-d48a-ace6-5467396f803d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:14.163697Z",
+                "observed": "2019-03-08T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "308a2cd3-3a8c-c6b4-10d0-6be127af77f5",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:14.298769Z",
+                "observed": "2019-03-08T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "21f42734-7a70-c6e9-3b21-6e7f2946d00e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:14.432181Z",
+                "observed": "2019-03-08T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b1eeedcf-f522-fb0e-928b-c4fdb0f09285",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:14.569676Z",
+                "observed": "2019-03-08T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "15b89699-f1e4-999b-b621-5d194c28aca0",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:14.712974Z",
+                "observed": "2019-03-08T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a9f3cb86-2690-0b70-41b1-88fdea92c32a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:14.850543Z",
+                "observed": "2019-03-08T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "10d5d066-7c7e-6671-2f9d-4524fdcb9684",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:14.988689Z",
+                "observed": "2019-03-08T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6205d019-eab8-3337-52ad-991fd862b5ec",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:15.123219Z",
+                "observed": "2019-03-08T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a073a08e-7d0e-fff9-a074-b7c28d246167",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:15.284723Z",
+                "observed": "2019-03-08T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "3da452e1-b61d-12eb-5db4-34fd83ee2c16",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:15.394917Z",
+                "observed": "2019-03-08T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "fd2fe7f3-430b-a7f5-b9dd-6fedf92cd40f",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:15.532497Z",
+                "observed": "2019-03-09T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "3e8cd763-0a76-e396-cc13-12c7ddc354b6",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:15.675112Z",
+                "observed": "2019-03-09T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "4571746b-0a03-e944-cdb4-143227857da0",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:15.810677Z",
+                "observed": "2019-03-09T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "fd7ae90f-d5b6-9042-6cd3-fe805d146be1",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:15.946242Z",
+                "observed": "2019-03-09T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "09bf3acf-a0b4-6ad1-a311-c2af1180d482",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:16.080591Z",
+                "observed": "2019-03-09T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "17cf7bbe-0d1f-f82f-efb4-34cc22a0fd8c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:16.215381Z",
+                "observed": "2019-03-09T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8e13106b-a5fd-cce5-5057-00bb957c0136",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:16.395928Z",
+                "observed": "2019-03-09T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "654e1f59-bfd1-731a-6670-bbebbb884979",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:16.490242Z",
+                "observed": "2019-03-09T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "2465396e-dc4d-bdbe-e271-d60437b8b2ec",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:16.630323Z",
+                "observed": "2019-03-09T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "79e23138-ffa6-fa8c-429b-d81b4e5c3170",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:16.819319Z",
+                "observed": "2019-03-09T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "cab4d03f-d4f1-acb9-8cc1-1e4b1458927f",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:16.888371Z",
+                "observed": "2019-03-09T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "357fcdaf-06fa-a950-0fea-6ed8f09b1361",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:16.995380Z",
+                "observed": "2019-03-09T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "357fcdaf-06fa-a950-0fea-6ed8f09b1361",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:16.995380Z",
+                "observed": "2019-03-09T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d8cc67af-113c-b609-5d49-66ff203e9483",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:17.161258Z",
+                "observed": "2019-03-09T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7f4721b9-1f65-4d48-c338-b6ba7f2de73e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:17.325547Z",
+                "observed": "2019-03-09T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7f16ec41-7ec8-f5a6-25a8-5150a7ea0fdf",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:17.488663Z",
+                "observed": "2019-03-09T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bb40608a-88d4-b3ec-606d-758e75415f83",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:17.622348Z",
+                "observed": "2019-03-09T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7c19e938-b32b-d7fc-5586-c259f79bdb24",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:17.757070Z",
+                "observed": "2019-03-09T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "0ced40aa-9004-1288-bdd6-207a2d62666b",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:18.124859Z",
+                "observed": "2019-03-09T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "ad9f2c05-348a-ad4f-69d4-a821355de333",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:18.219893Z",
+                "observed": "2019-03-09T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5a4558f1-a919-77bb-94cc-81dd81bb7d0a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:17.958142Z",
+                "observed": "2019-03-09T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "06cb03dd-9e7c-2bb0-27dc-e639f2a5328a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:18.089991Z",
+                "observed": "2019-03-09T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6527a72f-ff41-a19d-11cd-af0611edb69f",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:18.399827Z",
+                "observed": "2019-03-09T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "fb9756ed-4186-e0bc-0f0f-02105d356809",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:18.560809Z",
+                "observed": "2019-03-09T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "dbc7d42e-e4f4-0eb1-6684-8f2e90565f0d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:18.637798Z",
+                "observed": "2019-03-10T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d79ba14d-ecd1-d8ee-16a5-4e4db05cac30",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:18.830208Z",
+                "observed": "2019-03-10T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8c545f5c-46bb-27ab-0db3-19a1531e4703",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:19.067685Z",
+                "observed": "2019-03-10T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f935f708-73ae-559c-8d6e-d71f90b01c33",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:18.933477Z",
+                "observed": "2019-03-10T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8bcc74b1-c9cc-09c9-520d-79983d1a8012",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:19.205638Z",
+                "observed": "2019-03-10T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "cd382a76-1bdf-2652-2f04-d3af80cced1d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:19.367454Z",
+                "observed": "2019-03-10T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bfe3ffc3-84bd-207b-0cd0-fba503c6275a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:19.506306Z",
+                "observed": "2019-03-10T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5e8349e4-d0b6-2c43-4441-b505ad4443cf",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:19.738932Z",
+                "observed": "2019-03-10T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "2deaf782-6185-3c47-8dfc-029311e77904",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:19.565917Z",
+                "observed": "2019-03-10T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "cfff9187-7323-391d-ce1b-5294b9e8a31c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:19.916361Z",
+                "observed": "2019-03-10T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6d9224df-7b26-06df-cd73-a0aa266bfe04",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:20.051518Z",
+                "observed": "2019-03-10T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "fe549718-8738-3a4e-74a6-a33a01135883",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:20.192441Z",
+                "observed": "2019-03-10T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b97ec933-d96a-6ee6-80f6-613039e365d2",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:20.405188Z",
+                "observed": "2019-03-10T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e4c8f601-92fb-1fca-b56e-f926aebb27df",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:20.544184Z",
+                "observed": "2019-03-10T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "226dab73-a007-0568-fde3-9fdf70d2e9f7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:20.300143Z",
+                "observed": "2019-03-10T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e1d902c1-9cdd-5e59-c0bb-ee7b9828f801",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:20.731792Z",
+                "observed": "2019-03-10T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "ad8d93eb-5504-4316-9eaf-a2c894d4c919",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:20.986853Z",
+                "observed": "2019-03-10T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "3cb17fc2-d714-509e-b533-e23bd2d813c3",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:20.894600Z",
+                "observed": "2019-03-10T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6caa4e3f-8780-8a0a-bea7-2f1be722eeaf",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:21.171961Z",
+                "observed": "2019-03-10T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f2c6ecbe-e012-06c7-e9f9-9860279fb559",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:21.282118Z",
+                "observed": "2019-03-10T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6ad34a17-0461-0e61-43ba-57447186d64e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:21.394255Z",
+                "observed": "2019-03-10T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "98a581dc-0594-48ef-c3a8-a1afbd738cf0",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:21.802559Z",
+                "observed": "2019-03-10T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "da8b449f-20d9-0aa6-8c40-aade7d581f3d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:21.632951Z",
+                "observed": "2019-03-10T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d12b2cd0-a9e9-68a6-90b3-29f91fa133ee",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:21.892124Z",
+                "observed": "2019-03-10T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6bb9dbd2-1cd5-fd70-b03d-90fd406fe4c6",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:21.499733Z",
+                "observed": "2019-03-11T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "00b9712c-757a-fe33-b514-5acce7b82828",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:22.098907Z",
+                "observed": "2019-03-11T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "736fdf15-6dd8-3b5a-71b1-3d0c4396312e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:22.211621Z",
+                "observed": "2019-03-11T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "56e06840-c643-84c9-feec-e4a52d61ea17",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:22.375070Z",
+                "observed": "2019-03-11T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "cb2816cf-a61f-7ef7-db27-c79c6aadc9ae",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:22.512595Z",
+                "observed": "2019-03-11T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "0c89ed27-b347-c6dc-72d6-fb35149d5a7c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:22.645994Z",
+                "observed": "2019-03-11T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f3e18117-1c09-6261-1953-d117218a3a80",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:22.780168Z",
+                "observed": "2019-03-11T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6b01cd70-35ea-a127-e6c3-b37a16f226e9",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:22.959135Z",
+                "observed": "2019-03-11T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "74c5a771-1944-4fab-c1a6-ad4cea5fde51",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:23.055805Z",
+                "observed": "2019-03-11T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8f2db387-4b8f-61de-6c41-76338988bbf8",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:23.163422Z",
+                "observed": "2019-03-11T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "2b1c5df9-d701-04c2-abc0-04df83ac8ea8",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:23.326189Z",
+                "observed": "2019-03-11T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c4dae5ee-6e34-f3d1-4beb-5d60c5614218",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:23.462537Z",
+                "observed": "2019-03-11T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "59708b92-9d0e-a230-b69f-4bd2861b9739",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:23.620031Z",
+                "observed": "2019-03-11T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f3cae8e5-fab7-1ad2-3f83-436b75ac147e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:23.817954Z",
+                "observed": "2019-03-11T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c588918f-1efe-119e-7350-df9152d20301",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:23.875758Z",
+                "observed": "2019-03-11T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "87be36ca-d1b2-4600-14d4-2990f0e7e00f",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:23.986450Z",
+                "observed": "2019-03-11T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "fcc697b0-09f5-e733-c957-4f23ab46482a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:24.161450Z",
+                "observed": "2019-03-11T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "ba4852c8-7235-fdc4-c432-4c10c1b79c95",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:24.305566Z",
+                "observed": "2019-03-11T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a9cfba89-746e-4957-44bb-238d48c9224d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:24.449346Z",
+                "observed": "2019-03-11T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "aebdb043-1548-f050-3410-a34c2d56c049",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:24.747552Z",
+                "observed": "2019-03-11T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f630e655-e9e2-96e4-fa02-ffaf78630b68",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:24.670472Z",
+                "observed": "2019-03-11T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e2815ebd-3274-5877-e45e-2d9ade605a4b",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:24.861053Z",
+                "observed": "2019-03-11T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7df43819-32d4-76e2-d95a-00da6db7ad54",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:25.042168Z",
+                "observed": "2019-03-11T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "dc605962-8537-de9c-f053-2c4853e93db3",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:25.172197Z",
+                "observed": "2019-03-11T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "4cc31e61-6769-18fb-007f-a24b662a2274",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:25.231727Z",
+                "observed": "2019-03-12T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "ef76f746-bdae-e0d1-6acc-903ee3bea1d5",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:25.436509Z",
+                "observed": "2019-03-12T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "70b075f4-e01d-49a3-c98a-04fbfd1e7d68",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:25.550236Z",
+                "observed": "2019-03-12T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a6ea1786-5f39-04cd-7383-c84dbbcaee2e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:25.714987Z",
+                "observed": "2019-03-12T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "ebd32083-8ff1-a1df-e2ec-97614ea79aa0",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:25.850218Z",
+                "observed": "2019-03-12T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "2a651f3e-14b3-1963-6ac4-34eba42ce1d1",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:25.962333Z",
+                "observed": "2019-03-12T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "24c46a41-c50d-ef19-998f-85569928e606",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:26.177407Z",
+                "observed": "2019-03-12T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a869033e-9696-8180-483a-81b89ce386aa",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:26.325178Z",
+                "observed": "2019-03-12T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d1341bfc-5d99-0ad8-341d-7c60a1144d5d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:26.447334Z",
+                "observed": "2019-03-12T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "49904c72-9c4f-74e9-c3be-7068c6f67995",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:26.583864Z",
+                "observed": "2019-03-12T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "022f1fb8-f323-c22c-a8e8-c71d47614ff3",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:26.759211Z",
+                "observed": "2019-03-12T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e769abc4-f1ad-4b3d-869e-4bdcadf4a2a7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:26.813752Z",
+                "observed": "2019-03-12T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "544b69cc-28cd-234c-2ea8-73cb766fd056",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:27.013017Z",
+                "observed": "2019-03-12T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d3e0a771-6979-1c09-147f-87d2ff19eabe",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:27.083903Z",
+                "observed": "2019-03-12T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "46db1bed-42c0-fab8-af58-a06cfaeed9cb",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:27.263953Z",
+                "observed": "2019-03-12T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c5fcc755-6473-9c84-85ad-3bc39129a24c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:27.362042Z",
+                "observed": "2019-03-12T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "71d558b0-696f-4b74-bcec-0e11994d21e4",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:27.498106Z",
+                "observed": "2019-03-12T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "cc86da5e-f563-aa22-03d9-8d7a45575746",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:27.634761Z",
+                "observed": "2019-03-12T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c2087f5c-f931-6659-42cb-f5b74f0ecd3c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:28.004775Z",
+                "observed": "2019-03-12T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "2d1d3cee-1157-e1ff-3985-68778918104b",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:27.773198Z",
+                "observed": "2019-03-12T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "dfcc3d59-15e6-918c-d53e-78f898fa75e5",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:28.143934Z",
+                "observed": "2019-03-12T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "2eaecdf2-a6df-f2ee-7807-bc1602ecd92e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:27.909928Z",
+                "observed": "2019-03-12T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "683af25f-352c-5c48-9565-fe9261cd20b4",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:28.328820Z",
+                "observed": "2019-03-12T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "0ebe3275-74fc-2998-b892-9568b1efa4e0",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:28.466682Z",
+                "observed": "2019-03-12T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "59c0298b-7783-3b22-815a-96aa6cf13ec1",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:28.583775Z",
+                "observed": "2019-03-13T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a659a938-b2b9-ea06-0ada-41ea4c10f941",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:28.790162Z",
+                "observed": "2019-03-13T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5b4c8c78-65f7-e569-ded6-a1577edecca5",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:28.877348Z",
+                "observed": "2019-03-13T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "672f9371-557e-fc39-c2e0-651b9452e9b1",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:29.047546Z",
+                "observed": "2019-03-13T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f4d9bbe4-1ea9-dfa4-50fc-4e0e63681593",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:29.182603Z",
+                "observed": "2019-03-13T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "97fd6923-e8f8-b828-2bcd-941e1dd7fd4e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:29.267091Z",
+                "observed": "2019-03-13T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "54e28ace-33dd-82f2-d1eb-47d1a2a97c74",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:29.436915Z",
+                "observed": "2019-03-13T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "2c00d48f-715f-fb78-8f69-c1f21780a834",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:29.607192Z",
+                "observed": "2019-03-13T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "86321af6-9ff0-5676-4d66-71bc229106c6",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:29.703463Z",
+                "observed": "2019-03-13T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "0cda6e3a-0a1f-2355-7a68-ba42fcf9c2cd",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:29.827935Z",
+                "observed": "2019-03-13T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "959cdc35-2cc6-64e5-0e22-2ba6c7e47ec8",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:29.972595Z",
+                "observed": "2019-03-13T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "521715df-1936-46d3-1b46-800ab2ceb6a7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:30.135004Z",
+                "observed": "2019-03-13T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "1260b288-29e3-7648-1a92-8b43190c9630",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:30.272238Z",
+                "observed": "2019-03-13T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e685337a-f5e5-56fe-38ac-9e22228cf036",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:30.438692Z",
+                "observed": "2019-03-13T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "3ecbe271-278a-e5a0-c1c6-b1d95aed8441",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:30.548515Z",
+                "observed": "2019-03-13T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "35992e5d-6e74-bcef-cb6b-40fba5a20e25",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:30.688112Z",
+                "observed": "2019-03-13T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "fe16f512-e40a-ab35-2645-eda82a8fb2b3",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:30.824751Z",
+                "observed": "2019-03-13T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7136f42c-43ca-f7b3-258f-9b3a8f0db081",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:31.071447Z",
+                "observed": "2019-03-13T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "44369c25-10dc-8357-774e-55f95fc4caa6",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:30.956857Z",
+                "observed": "2019-03-13T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 1.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5e15f6ef-69f3-0efa-f15b-7bd3d603e4ff",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:31.219412Z",
+                "observed": "2019-03-13T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 1.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c91a13e8-a037-0188-5d17-ac0f1383d815",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:31.384893Z",
+                "observed": "2019-03-13T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "950f3e30-0533-d885-4124-7de8a84ffb80",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:31.530078Z",
+                "observed": "2019-03-13T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "97e0f970-2c43-522a-badb-c210e3358c2f",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:31.622833Z",
+                "observed": "2019-03-13T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e922e777-89a7-e72f-3f29-e843dbbe85d6",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:31.759217Z",
+                "observed": "2019-03-13T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 1.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b161a080-3736-1aa1-4fd2-01d9a5a2d739",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:31.941372Z",
+                "observed": "2019-03-14T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 0.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "26ed51a3-890c-526e-3453-644391435d62",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:32.079436Z",
+                "observed": "2019-03-14T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": -0.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f1f5b3dd-6ee8-19fb-892d-671c7e696dc2",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:32.235788Z",
+                "observed": "2019-03-14T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": -1.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bfbc6e1d-d2c9-9bb5-a4e3-3e21da7ee9ca",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:32.354244Z",
+                "observed": "2019-03-14T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": -3.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "57904fe8-1f2a-9cd3-72db-3d8140f81181",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:32.489717Z",
+                "observed": "2019-03-14T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": -4.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "34d17bf7-c39e-b22e-d7b7-bcd3b575b6c4",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:32.625896Z",
+                "observed": "2019-03-14T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": -4.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a33f387c-f5a4-6f76-e452-56ecea8bc383",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:32.836640Z",
+                "observed": "2019-03-14T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": -4.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7599ffae-9572-8f29-f146-0b1bf5ff3d4b",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:32.911817Z",
+                "observed": "2019-03-14T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": -4.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "0cdff9e5-8166-462f-6d3c-5bca77c1c354",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:33.025938Z",
+                "observed": "2019-03-14T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": -0.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "4bea5551-a7a4-82db-47cf-1184d36a85aa",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:33.210291Z",
+                "observed": "2019-03-14T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "dd808546-ccff-954b-09e5-049425910d5d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:33.320218Z",
+                "observed": "2019-03-14T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "1848d8b1-f1b8-8610-29ab-55a3a05810a3",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:33.429714Z",
+                "observed": "2019-03-14T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f8197a69-8e53-4755-48e9-9a1e455ac2eb",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:33.590409Z",
+                "observed": "2019-03-14T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8a83a7f9-e8b2-75c5-6595-2de747a63b95",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:33.728389Z",
+                "observed": "2019-03-14T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "351b74bc-98db-9a89-fda9-92aff4efcb8e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:33.877328Z",
+                "observed": "2019-03-14T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bbef0eaa-8519-4c1f-90dc-f560ab95835c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:34.018506Z",
+                "observed": "2019-03-14T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5dee5beb-2698-ca55-b754-526828393618",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:34.293225Z",
+                "observed": "2019-03-14T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f16e7983-a369-9728-0421-da1a391837a8",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:34.337787Z",
+                "observed": "2019-03-14T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8be9602c-667f-fe2a-fc58-c553d43d95d5",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:34.434806Z",
+                "observed": "2019-03-14T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "70c45540-79e0-9e92-5641-7b1f973a6388",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:34.547744Z",
+                "observed": "2019-03-14T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "08dd173b-3e82-00e7-2c6e-cc8fcfa45a73",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:34.710560Z",
+                "observed": "2019-03-14T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "0cd0723a-99b8-c67d-a3bf-2cf8a27f83d1",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:34.852995Z",
+                "observed": "2019-03-14T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 2.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d32aa72f-94d4-f7d9-d6c3-51d77aae7dd7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:34.990479Z",
+                "observed": "2019-03-14T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a01faea3-5e3a-8bd2-6d39-fefdb1ca1221",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:35.156547Z",
+                "observed": "2019-03-14T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "19ee25f0-6a56-726b-b1da-f3e763d5ce55",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:35.234127Z",
+                "observed": "2019-03-15T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b6997f76-a795-3ebc-3c06-51b3d9bb052d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:35.377931Z",
+                "observed": "2019-03-15T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e20c5de8-a6f1-8159-0b67-20d851bcebf6",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:35.553033Z",
+                "observed": "2019-03-15T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "19927877-fe11-b2c3-9286-6c1615e6c104",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:35.685155Z",
+                "observed": "2019-03-15T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bb61aa64-e7bf-c8a6-96c8-774dbcfd92bf",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:35.825704Z",
+                "observed": "2019-03-15T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c84b6d4b-6338-d223-95c3-b30faea77e93",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:35.988429Z",
+                "observed": "2019-03-15T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7135b475-57db-6755-f374-b149ce5dbd64",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:36.108914Z",
+                "observed": "2019-03-15T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "dcadaf33-e031-e167-83cc-8c05a8b81653",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:36.244403Z",
+                "observed": "2019-03-15T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c71e58e3-9de9-fb2c-6c0d-323211f89060",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:36.364453Z",
+                "observed": "2019-03-15T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "4bd7d479-eebb-0d21-c06b-06eb9b4017a3",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:36.516527Z",
+                "observed": "2019-03-15T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e09d0ed0-53cc-7938-7cbc-8e99d44210f4",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:36.653954Z",
+                "observed": "2019-03-15T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "52f27504-5058-2668-7445-dd5434e66531",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:36.764575Z",
+                "observed": "2019-03-15T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "be144a30-348c-fc92-d686-658da956b95c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:36.927580Z",
+                "observed": "2019-03-15T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "eda419b9-dfdf-cfd2-b8ea-11cc8372637b",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:37.008552Z",
+                "observed": "2019-03-15T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "803da365-251d-fb9a-fa40-229ebee7fa6a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:37.147845Z",
+                "observed": "2019-03-15T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "0fb359b2-5734-d6ec-8a80-ff46ed5335c0",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:37.313408Z",
+                "observed": "2019-03-15T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8293b252-2741-78a4-3db5-9152bd5db867",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:37.480530Z",
+                "observed": "2019-03-15T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "637936ea-084d-2062-e5df-afa3661f186e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:37.618354Z",
+                "observed": "2019-03-15T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6a0a9153-2b14-b39e-e37a-1ea9e2521732",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:37.813442Z",
+                "observed": "2019-03-15T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "04d9da7c-a0ec-b739-55ae-bb2f5c31d66d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:37.952907Z",
+                "observed": "2019-03-15T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bac61586-feed-e821-5212-97f58a609d31",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:37.731139Z",
+                "observed": "2019-03-15T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "980abdaa-61fa-96ad-d9ed-0dadf710c681",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:38.141707Z",
+                "observed": "2019-03-15T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7ee756cb-e760-fd8e-db81-36f714d8ac0e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:38.289525Z",
+                "observed": "2019-03-15T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8bd22320-bb92-7324-9265-52d3afef74cf",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:38.451222Z",
+                "observed": "2019-03-15T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5d12173f-ef8b-eb6a-bc17-7bb18a2a5374",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:38.559128Z",
+                "observed": "2019-03-16T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7e5baf0d-4fec-fc55-8351-9ee1de473593",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:38.864728Z",
+                "observed": "2019-03-16T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "746ee13e-8009-699e-cee6-0cf4cfc4e2dc",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:38.730509Z",
+                "observed": "2019-03-16T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b4748a9e-cbb8-d7d7-2624-2f36a1645b60",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:39.030115Z",
+                "observed": "2019-03-16T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b8a5d770-5786-b96b-38bd-9bf914e4d721",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:39.169489Z",
+                "observed": "2019-03-16T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5300d895-6e4c-91b5-f99c-76b76407523c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:39.255349Z",
+                "observed": "2019-03-16T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "aaa871c5-3dcc-352a-76eb-934fd2746ffa",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:39.425823Z",
+                "observed": "2019-03-16T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "dfd6c4e2-dad0-fafe-f99d-c71b579d8125",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:39.573344Z",
+                "observed": "2019-03-16T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "22402e58-ed59-351d-17cb-d34d128e2446",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:39.730702Z",
+                "observed": "2019-03-16T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "45f51950-04b0-850c-9ad3-cb80fbf724b7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:39.812188Z",
+                "observed": "2019-03-16T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "574b1c19-5c3d-1e6a-8193-0cd887cfd0bb",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:40.133374Z",
+                "observed": "2019-03-16T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b67602bd-b087-60b6-a6a3-4f57bdcddbc6",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:40.201393Z",
+                "observed": "2019-03-16T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6ede2ccb-0d70-3ccc-39e6-cfb5e7fddf6b",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:40.073216Z",
+                "observed": "2019-03-16T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "70564aaf-5682-12c7-387f-be38536b2ff7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:40.308855Z",
+                "observed": "2019-03-16T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "097e3bdb-af52-48a5-3e2a-94c2a5323d9a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:40.525667Z",
+                "observed": "2019-03-16T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "282a6d65-e1b1-281e-52f5-9f696dac3907",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:40.630092Z",
+                "observed": "2019-03-16T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bf81d1b7-9e1e-d157-3e17-0d89a8c8ca8a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:40.808551Z",
+                "observed": "2019-03-16T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "9088e369-0f95-dedc-1807-5cc5a7e2cf3a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:40.944503Z",
+                "observed": "2019-03-16T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8a0e01e0-c685-086e-9fee-8eed4d36885a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:41.075108Z",
+                "observed": "2019-03-16T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "0924f74d-319e-8b59-fc6d-71fbb0255ba7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:41.184043Z",
+                "observed": "2019-03-16T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "aaf8e337-bd14-2252-6a1f-b7a6d7de1c0d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:41.392128Z",
+                "observed": "2019-03-16T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d88520db-9683-4485-3d5a-8d19b446e295",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:41.482599Z",
+                "observed": "2019-03-16T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "61f03d50-c439-01f4-2b90-af67ffdbf156",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:41.620456Z",
+                "observed": "2019-03-16T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "1d11d0db-82e5-1674-a8f5-ed10fe7ddc3d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:41.734457Z",
+                "observed": "2019-03-16T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a6e5554a-3665-4d24-e676-09786c51661f",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:41.864453Z",
+                "observed": "2019-03-17T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a42957e5-0845-b020-7ea8-e907f5d6efb0",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:42.031554Z",
+                "observed": "2019-03-17T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "3ef2a8b1-72f6-d59e-1447-6cea4afb031f",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:42.142342Z",
+                "observed": "2019-03-17T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 3.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f7f6df9c-f880-0d17-2a5a-df7999a6609c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:42.303686Z",
+                "observed": "2019-03-17T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "115d6873-e0ee-8150-0788-ad813a414e17",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:42.438928Z",
+                "observed": "2019-03-17T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "b88b52a0-1028-9ac8-ce1a-bb738274f2b5",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:42.553376Z",
+                "observed": "2019-03-17T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "26bf00ba-3363-80a9-2ffd-b306bc734701",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:42.721804Z",
+                "observed": "2019-03-17T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 4.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7274ed0d-7086-cb7a-f8c8-702f09140709",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:42.931794Z",
+                "observed": "2019-03-17T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "198b3973-2b2a-0ee1-113c-4634f8a459a8",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:43.042429Z",
+                "observed": "2019-03-17T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 5.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "2161591e-f636-5fc1-c8d5-06b12a84c8c4",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:43.182242Z",
+                "observed": "2019-03-17T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "29ce1cc0-7b77-0b5a-c5e3-0dc4e6ca733c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:43.247057Z",
+                "observed": "2019-03-17T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "3eafd1ea-c149-66e5-ca89-d66f23bfa574",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:43.449384Z",
+                "observed": "2019-03-17T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "a353eda7-362a-5072-2de3-30d8db0f64e8",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:43.542688Z",
+                "observed": "2019-03-17T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "ef88b2f6-7294-ea59-bc00-22d4244f1481",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:43.727064Z",
+                "observed": "2019-03-17T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "79a90616-30de-533d-0ad5-41fc29dd9c5b",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:43.820964Z",
+                "observed": "2019-03-17T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bda14469-d628-cd1c-971a-19a2c7582601",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:43.982488Z",
+                "observed": "2019-03-17T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d70227cd-802b-0f24-bf46-0d7d31c86125",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:44.124377Z",
+                "observed": "2019-03-17T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "53101b47-89eb-67dc-8b27-9806c92d2fc3",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:44.249193Z",
+                "observed": "2019-03-17T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "dae3d18a-0d0d-0f20-cd4c-ea8948ee10d0",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:44.330436Z",
+                "observed": "2019-03-17T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6064dbd8-0813-8bab-7ede-debcbd4f727c",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:44.363214Z",
+                "observed": "2019-03-17T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.9
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "49e56afe-f2c4-45fa-7d09-dd000206b440",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:44.592567Z",
+                "observed": "2019-03-17T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "4d75022d-1852-32f0-bf27-c26b61514813",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:44.725831Z",
+                "observed": "2019-03-17T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f031aae5-8081-a237-1a5b-dbf7bea48175",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:44.858079Z",
+                "observed": "2019-03-17T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "4e7c3d87-f89a-d9a0-82e8-61f7ba04034a",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:44.984996Z",
+                "observed": "2019-03-17T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bfa5256e-05c7-deb8-6f25-66126f6ccd22",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:45.156080Z",
+                "observed": "2019-03-18T00:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "3ec64994-b794-004b-10ef-5ebe6abae7ac",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:45.280624Z",
+                "observed": "2019-03-18T01:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "40832aab-b24a-235e-9f18-ac47ac0c647e",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:45.357289Z",
+                "observed": "2019-03-18T02:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "bf59cbca-3d99-7814-1cbf-a7e8ab71a8ec",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:45.484610Z",
+                "observed": "2019-03-18T03:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.4
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d0612ffd-2130-6108-cebb-18cefa37aba4",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:45.683697Z",
+                "observed": "2019-03-18T04:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "23aca5e1-b77a-aeb1-74b2-8a58ccd7c1ae",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:45.765690Z",
+                "observed": "2019-03-18T05:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e9430da1-f4e0-0444-d856-514282809738",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:45.862744Z",
+                "observed": "2019-03-18T06:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "2b2ad77b-b50e-6cc2-39ba-a5cc63be658b",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:46.169895Z",
+                "observed": "2019-03-18T07:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5fb2e911-e607-7234-f758-460573d1ddb4",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:46.066776Z",
+                "observed": "2019-03-18T08:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "8572ab7c-f515-fb18-d023-ad736499ff76",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:46.250516Z",
+                "observed": "2019-03-18T09:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "f2022eea-7c0f-873d-27fa-bffedc0400f3",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:46.379789Z",
+                "observed": "2019-03-18T10:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "59a9aca7-37b1-29c3-c37b-bc05724b3275",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:46.556897Z",
+                "observed": "2019-03-18T11:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.2
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "33853dc2-323c-8d8e-22fa-0e6334a0a5b6",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:46.656910Z",
+                "observed": "2019-03-18T12:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e62f8b60-2bff-2065-0e08-f3c1ba4db2e7",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:46.786835Z",
+                "observed": "2019-03-18T13:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6c95eddd-9dfa-e9f8-d841-08bb0e3f4e72",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:46.927472Z",
+                "observed": "2019-03-18T14:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.3
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "54fe0a45-f549-1e0b-c198-96e92fd21905",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:47.088741Z",
+                "observed": "2019-03-18T15:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.5
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "c98df20d-0b4b-bc73-e4fa-65fb31184172",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:47.161073Z",
+                "observed": "2019-03-18T16:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "ef674903-b145-0644-176b-e93c443e1385",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:47.294608Z",
+                "observed": "2019-03-18T17:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 9.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "e4bd7eb4-cf32-a345-3915-2647ba1f364d",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:47.426260Z",
+                "observed": "2019-03-18T18:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 8.0
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "7573487a-0d13-dbd5-89cf-c29577ccd512",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:47.579342Z",
+                "observed": "2019-03-18T19:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.8
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "d90cdc90-ae9d-f9eb-505c-477d6c5cb184",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:47.683593Z",
+                "observed": "2019-03-18T20:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.7
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "6c07de20-ffb4-3087-ccb4-cc182023c326",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:47.810228Z",
+                "observed": "2019-03-18T21:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 7.1
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "866c49ed-49c3-b7d2-9c6c-bc782810ae22",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:47.936873Z",
+                "observed": "2019-03-18T22:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.6
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562,
+                    55.716
+                ],
+                "type": "Point"
+            },
+            "id": "5adfa4bc-0f36-3f06-538b-d4a357e83b56",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-19T23:23:48.064600Z",
+                "observed": "2019-03-18T23:00:00Z",
+                "parameterId": "temp_min_past1h",
+                "stationId": "06184",
+                "value": 6.9
+            }
+        },
